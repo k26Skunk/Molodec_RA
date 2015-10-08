@@ -1,0 +1,19 @@
+body {
+    padding-top: 72px;
+}
+.navbar-default {
+    background-color: rgba(0, 0, 0, 0.9);
+    margin-top: 0;
+}
+h1 {
+    padding-top: 0px;
+    color: #333;
+}
+h2 {
+    color: #333;
+}
+table > thead > tr > th, .table > thead > tr > th, table > tbody > tr > th, .table > tbody > tr > th, table > tfoot > tr > th, .table > tfoot > tr > th, table > thead > tr > td, .table > thead > tr > td, table > tbody > tr > td, .table > tbody > tr > td, table > tfoot > tr > td, .table > tfoot > tr > td 
+{
+    border-color: #d0d0d0;
+    text-align: center;
+}
